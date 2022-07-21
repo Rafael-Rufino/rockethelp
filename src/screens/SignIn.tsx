@@ -13,6 +13,7 @@ export function SignIn() {
   function handleSubmit() {
     console.log(email, password);
   }
+
   return (
     <VStack flex={1} alignItems="center" bg="gray.600" px={8} pt={24}>
       <Logo />
