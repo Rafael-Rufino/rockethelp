@@ -30,7 +30,6 @@ export function Header({ title, ...rest }: IProps) {
       bg="gray.600"
       pt={12}
       pb={6}
-      px={6}
       {...rest}
     >
       <IconButton
