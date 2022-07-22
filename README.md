@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Mobile
 
-- [Interface com Native Base]("https://nativebase.io/")
+- [Interface com Native Base](https://nativebase.io/)
 - [Expo]()
 - [TypeScript]()
 - [Firebase]()
@@ -44,8 +44,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Firebase (Auuthentication e firestore)
 - TabNavegation
 - Filtro de dados pelo firestore
-
-
 
 ## :heavy_check_mark: :iphone:  Mobile
 
