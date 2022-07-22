@@ -2,7 +2,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="./.github/logo_primary.svg">
     <br><br>
-    <b> RocketHelp é um Aplicativo para de suporte a consertos de equipamentos.</b>  
+    <b> RocketHelp é um Aplicativo  de suporte a manutenção de equipamentos.</b>  
     <br>
 </h3>
 
@@ -17,8 +17,8 @@
 - [Como Contribuir](#como-contribuir)
 
 ## :bookmark: Sobre
-O <strong>RocketHelp</strong> é um aplicativo para de suporte a consertos de equipamentos 
-empresarias, utiliza um sistema de solicitação de chamados!
+O <strong>RocketHelp</strong> é um aplicativo para suporte a consertos de equipamentos 
+empresarias, no formato de sistema de solicitação de chamados!
 
 <a id="tecnologias-utilizadas"></a>
 
@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ## Mobile
 
-- [Interface com React base]()
+- [Interface com Native Base]("https://nativebase.io/")
 - [Expo]()
 - [TypeScript]()
 - [Firebase]()
@@ -37,17 +37,21 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a id="#conceito-aprendido"></a>
 
-## CONCEITO APRENDIDO
+## CONCEITOS APRENDIDOS
 
 - Trabalhando com NativeBase
 - Conectando com Firebase
-- Autenticação com firebase/auth
+- Firebase (Auuthentication e firestore)
 - TabNavegation
 - Filtro de dados pelo firestore
 
 
 
 ## :heavy_check_mark: :iphone:  Mobile
+
+<h1 align="center">
+    <img alt="home" src="./.github/app.png" width="900px">
+</h1>
 
 <h1 align="center">
     <img alt="home" src="./.github/home.png" width="900px">
