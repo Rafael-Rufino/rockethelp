@@ -48,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :iphone:  Mobile
 
 <h1 align="center">
-    <img alt="home" src="./.github/app.png" width="900px">
+    <img alt="home" src="./.github/desktop.png" width="900px">
 </h1>
 
 <h1 align="center">
